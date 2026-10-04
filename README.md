@@ -257,7 +257,6 @@ commit-craft/
 ├── CONTRIBUTING.md             # Developer contribution guidelines
 ├── .gitignore                 # Python & OS artifact ignores
 ├── LICENSE                    # Official MIT License
-├── OPENAI_CODEX_OSS_APPLICATION.md # OpenAI Codex for OSS application guide
 ├── pyproject.toml             # PEP 621 packaging & pytest configuration
 ├── requirements.txt           # Dependency requirements
 ├── SECURITY.md                # Security vulnerability reporting policy

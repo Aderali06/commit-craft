@@ -76,3 +76,9 @@ venv.bak/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Local application notes & credentials
+OPENAI_CODEX_OSS_APPLICATION.md
+*.local.md
+.commit-craft.json
+
